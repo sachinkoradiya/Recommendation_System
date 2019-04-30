@@ -1,0 +1,45 @@
+p_id,work_exp,skill_name,degree_name,university_name
+1,2,"java,c,python,ml","be,me",Gujarat Technological University
+2,3,"php,html,css",be,Nirma University
+3,1,".net,c++,laravel","bca,mca",Gujarat Technological University
+4,0.5,"js,python,c",bca,Saurashtra University
+5,4,"datastructure,php,swift",be,Gujarat Technological University
+6,2,"ios,android,python","be,me",Dharmasinh Desai University
+7,1,"php,html,css,java","bca,mca",Gujarat Technological University
+8,3,".net,css,html,ml",bca,Pandit Deendayal Petroleum University
+9,4,"ml,dl,python,c,java",be,Nirma University
+10,2.5,"datastructure,php","be,me",Gujarat Technological University
+11,5,"python,js,css,php",mca,Saurashtra University
+12,1.5,"java,.net,c,html,css","bca,mca",Charotar University
+13,1,"ml,python,.net",me,Gujarat Technological University
+14,0.5,"java,aj,php,nodejs","bca,mca",Dharmasinh Desai University
+15,3,"js,php,anguler,html,css,c++","be,me",Saurashtra University
+16,2.5,"python,ml,dl,ai",be,Charotar University
+17,2,"java,datastructure,database,dbms,sql",mca,Nirma University
+18,3,"php,html,css,anguler",bca,Maharaja Sayajirao University
+19,4,"dbms,datastructure,js,aj,java",btech,Saurashtra University
+20,1,"android,ios,swift,c",be,Dharmasinh Desai University
+21,3.5,"ml,python,php,c,c++,c#","btech,mtech",Gujarat Technological University
+22,4,"java,.net,android,css,html",bca,Charotar University
+23,4.5,"aj,js,datastructure,dbms,sql",be,Nirma University
+24,2,"android,ml,dl,python","be,me",Charotar University
+25,5,"c,c++,html,css",mca,Gujarat Technological University
+26,2.5,"java,.net,ml,dl,python,php",bca,Dharmasinh Desai University
+27,3,"anguler,php,html,css",me,Pandit Deendayal Petroleum University
+28,9,"android,ios,html,css","btech,mtech",Maharaja Sayajirao University
+29,2,"aj,js,java,c,c++,c#",me,Dharmasinh Desai University
+30,3,"php,anguler,datastructure",bca,Gujarat Technological University
+31,4,".net,dbms,sql",be,Saurashtra University
+32,1.5,"python,ml,ai",btech,Nirma University
+33,7,"ai,dl,ml,python",mca,Gujarat Technological University
+34,3.5,"android,c,c++","bca,mca",Charotar University
+35,3,"ios,swift",bca,Saurashtra University
+36,2,"python,ml,dl,ai","be,me",Maharaja Sayajirao University
+37,4,"java,aj,php,nodejs",be,Nirma University
+38,1,"java,aj,php","bca,mca",Dharmasinh Desai University
+39,2,".net.,c,c++,c#",bca,Pandit Deendayal Petroleum University
+40,4,"python,ai,nlp","btech,mtech",Gujarat Technological University
+41,3,"php,anguler,css",btech,Nirma University
+42,5,"ml,dl,python,c,nlp",be,Gujarat Technological University
+43,2,"python,ml,dl",be,Gujarat Technological University
+44,2,cloud,bca,Gujarat Technological University
